@@ -47,3 +47,4 @@ Install dependencies:
 pip install -r requirements.txt
 Run the notebook:
 Open competition_completed_well_done.ipynb in Jupyter Lab or Google Colab.
+Source: https://www.kaggle.com/competitions/playground-series-s5e11/data
